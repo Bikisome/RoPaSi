@@ -51,7 +51,7 @@ else{
         userwin=comChoise==="paper"?false:true;
     }
     else if(userChoise=="paper"){
-        userwin=comChoise==="sissors"? false:true;
+        userwin=comChoise==="sizzors"? false:true;
     }
     else{
         userwin=comChoise==="rock"?false:true;

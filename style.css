@@ -3,6 +3,10 @@
     margin: 0;
     text-align: center;
 }
+
+body{
+    background-color: rgb(175, 177, 131);
+}
 h1{
     background-color: black;
     color: white;
